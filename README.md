@@ -1,3 +1,9 @@
 # Sweet Pumpkins - Find The Next Movie to Watch
 
-## Starting point for the Sweet Pumpkins application
+## Basic structure for the app:
+
+App
+ - Header
+ - Main
+   - Navigation
+   - Movies

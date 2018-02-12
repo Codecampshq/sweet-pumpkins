@@ -1,1 +1,3 @@
-# Sweet Pumpkins - Find the next movie to watch
+# Sweet Pumpkins - Find The Next Movie to Watch
+
+## Starting point for the Sweet Pumpkins application
